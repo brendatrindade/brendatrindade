@@ -23,11 +23,23 @@
   <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Css" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img align="center" alt="Markdown" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg">
 </div>
 
 ##
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="VsCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Intellij" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg">
+  <img align="center" alt="Eclipse" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg">
 
+##
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img align="center" alt="GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+</div>
+
+##
 <div align="center">  
   <a href="https://instagram.com/brendaaraujot" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:brendatrindde@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
