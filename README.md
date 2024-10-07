@@ -15,19 +15,18 @@
       srcset="https://github-readme-stats.vercel.app/api?username=brendatrindade&rank_icon=github&show_icons=true"
       media="(prefers-color-scheme: moltack), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=brendatrindade&rank_icon=github&show_icons=true&theme=date_night" />
+    <img alt="Brenda" src="https://github-readme-stats.vercel.app/api?username=brendatrindade&rank_icon=github&show_icons=true&theme=date_night" />
   </picture>
  </div>
- 
- <div align="center">  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendatrindade&hide_border=true&title_color=2F4F4F&text_color=F4F4F&bg_color=FFEFD5" />
-</div>
  
 
 ##
 <div align="center" style="display: inline_block"><br>
+  <img align="center" alt="C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Markdown" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg">
 </div>
 
