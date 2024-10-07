@@ -6,17 +6,23 @@
 ###
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=brendatrindade&show_icons=true&count_private=true&hide_border=true&title_color=2F4F4F&icon_color=2F4F4F&text_color=BC8F8F&bg_color=FFEFD5" alt="Brenda Trindade github stats"/> 
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=brendatrindade&rank_icon=github&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=brendatrindade&rank_icon=github&show_icons=true"
+      media="(prefers-color-scheme: moltack), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=brendatrindade&rank_icon=github&show_icons=true&theme=date_night" />
+  </picture>
  </div>
+ 
  <div align="center">  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendatrindade&layout=compact&hide_border=true&title_color=2F4F4F&text_color=F4F4F&bg_color=FFEFD5" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendatrindade&hide_border=true&title_color=2F4F4F&text_color=F4F4F&bg_color=FFEFD5" />
 </div>
  
- <div align="center">
-   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=brendatrindade&bg_color=FFEFD5&color=2F4F4F&line=BC8F8F&point=2F4F4F&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div> 
-
 
 ##
 <div align="center" style="display: inline_block"><br>
