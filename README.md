@@ -31,6 +31,20 @@
   </picture>
 </div>
 
+<div align="center">
+  <picture>
+    <source
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brendatrindade&layout=compact&theme=shadow_blue"
+    media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brendatrindade&layout=compact"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img width=60% alt="Langs" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brendatrindade&layout=compact&theme=city_lights"/>
+  </picture>
+</div>
+
 ##
 <div align="center" style="display: inline-block"><br>
   <img align="center" alt="Assembly" height="32" width="32" src="https://img.icons8.com/skeuomorphism/32/assembly.png">
