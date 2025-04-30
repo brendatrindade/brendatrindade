@@ -33,19 +33,21 @@
 
 ##
 <div align="center" style="display: inline-block"><br>
+  <img align="center" alt="Assembly" height="32" width="32" src="https://img.icons8.com/skeuomorphism/32/assembly.png">
   <img align="center" alt="C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img align="center" alt="Go" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Markdown" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
 </div>
 
 ##
 <div align="center" style="display: inline-block"><br>
   <img align="center" alt="VsCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Intellij" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg">
-  <img align="center" alt="Eclipse" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg">
+  <img align="center" alt="Eclipse" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-plain.svg">
 
 ##
 <div align="center" style="display: inline-block"><br>
