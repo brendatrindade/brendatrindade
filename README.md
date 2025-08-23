@@ -20,14 +20,14 @@
 <div align="center">
   <picture>
     <source
-    srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brendatrindade&custom_title=Most%20used%20languages&layout=compact&theme=shadow_blue"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=brendatrindade&langs_count=4&layout=donut&theme=shadow_blue"
     media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brendatrindade&custom_title=Most%20used%20languages&layout=compact"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=brendatrindade&langs_count=4&layout=donut"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img width=60% alt="Langs" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brendatrindade&custom_title=Most%20used%20languages&layout=compact&theme=city_lights" />
+    <img width=60% alt="Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendatrindade&langs_count=4&layout=donut&theme=city_lights" />
   </picture>
 </div>
 
