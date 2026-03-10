@@ -1,6 +1,15 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=002D62&height=120&section=header"/>
 
 ###
+
+<div align="center">
+<img src="https://github.com/brendatrindade/brendatrindade/blob/main/.github/eng-comp.svg" alt="ilustração engenheira de computação" width="400"/>
+</div>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=400&lines=Dev+Full+Stack" />
+</div>
+
+###
 <!-- Pacman -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brendatrindade/brendatrindade/output/pacman-contribution-graph-dark.svg">
@@ -54,41 +63,20 @@
 ###
 <div align="center">
 
-<img width="33%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brendatrindade&theme=city_lights" />
-<img width="33%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brendatrindade&theme=city_lights" />
-<img width="33%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brendatrindade&theme=city_lights" />
+  <img width="33%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brendatrindade&theme=city_lights" />
+  <img width="33%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brendatrindade&theme=city_lights" />
+  <img width="33%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brendatrindade&theme=city_lights" />
 
 </div>
 
 ##
-<div align="center" style="display: inline-block"><br>
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=python,java,c,cs,go,ts,js,html,css&theme=dark" />
   <img align="center" alt="Assembly" height="32" width="32" src="https://img.icons8.com/skeuomorphism/32/assembly.png">
-  <img align="center" alt="C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-  <img align="center" alt="Go" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-</div>
+  <img src="https://skillicons.dev/icons?i=nodejs,react,vite,nestjs,nextjs,tailwind,dotnet,mysql,postgresql,docker,git,linux&theme=dark" />
 
-##
-<div align="center" style="display: inline-block"><br>
-  <img align="center" alt="Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img align="center" alt="Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Next" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Nest" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg">
-  <img align="center" alt="Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-line.svg">
-  <img align="center" alt="Jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="MySql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Tailwindcss" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
 </div>
-
-##
-<div align="center" style="display: inline-block"><br>
-  <img align="center" alt="VsCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Intellij" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg">
-  <img align="center" alt="Eclipse" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-plain.svg">
 
 ##
 <div align="center">  
