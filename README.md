@@ -1,6 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=002D62&height=120&section=header"/>
 
 ###
+<!-- Pacman -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brendatrindade/brendatrindade/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brendatrindade/brendatrindade/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/brendatrindade/brendatrindade/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 <div align="center">  
   <picture>
     <source
@@ -43,6 +51,15 @@
   </picture>
 </div>
 
+###
+<div align="center">
+
+<img width="33%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brendatrindade&theme=city_lights" />
+<img width="33%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brendatrindade&theme=city_lights" />
+<img width="33%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brendatrindade&theme=city_lights" />
+
+</div>
+
 ##
 <div align="center" style="display: inline-block"><br>
   <img align="center" alt="Assembly" height="32" width="32" src="https://img.icons8.com/skeuomorphism/32/assembly.png">
@@ -75,7 +92,6 @@
 
 ##
 <div align="center">  
-  <a href="https://instagram.com/brendaaraujot" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:brendatrindde@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/brenda-trindade/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
