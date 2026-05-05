@@ -52,7 +52,7 @@
       srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brendatrindade&layout=compact"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img width=33% height=350px alt="Langs" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brendatrindade&layout=compact&theme=city_lights"/>
+    <img width=50% height=50% alt="Langs" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brendatrindade&layout=compact&theme=city_lights"/>
   </picture>
 </div>
 
